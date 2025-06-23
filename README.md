@@ -1,4 +1,5 @@
 📘 Lista de Tarefas 2 – Resumo das Atividades
+
 Este projeto contempla desafios fundamentais de JavaScript, com foco em controle de fluxo, funções (incluindo recursão e otimização) e manipulação de arrays e objetos. Ele está dividido em três seções principais:
 
 🔁 Seção 1: Estruturas de Controle Avançadas
